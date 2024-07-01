@@ -43,6 +43,7 @@ You can use the below Credentials to Check the Admin Actions!
 - Clone this Repository
 - Update the ENV Variables
 - Run on Terminal from the Project Folders:
+
 For client-side:
 ```
 npm install
