@@ -38,3 +38,18 @@ You can use the below Credentials to Check the Admin Actions!
 - React Toastify
 - Recharts
 - Sweet Alert 2
+
+## To Run the Project:
+- Clone this Repository
+- Update the ENV Variables
+- Run on Terminal from the Project Folders:
+For client-side:
+```
+npm install
+npm run dev
+```
+For server-side:
+```
+npm install
+node index.js
+```
